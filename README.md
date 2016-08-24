@@ -2,4 +2,4 @@
 first git
 
 
-I love :dancer: , :pizza: .
+I love :dancer: and :pizza: .
